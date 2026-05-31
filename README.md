@@ -1,3 +1,6 @@
+## Note
+
+If the notebook preview does not render on GitHub, please download the notebook and open it in Google Colab or Jupyter Notebook. The notebook file is fully functional and contains the complete analysis.
 # CEIP Summer Internship – Data Exploration and Cleaning using Pandas
 
 ## Objective
