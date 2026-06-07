@@ -12,3 +12,5 @@ Solving this Assignment 3, I learned how to use MySQL Workbench for importing an
 
 This project helped me improve my understanding of SQL concepts such as joins, subqueries, CTEs, aggregate functions, and window functions while analyzing real-world sales data.
 I got the insight and understanding of when to use gropu by,subqueries,CTE,window functions
+View Notebook
+Click here to view full output :-(https://github.com/gauri-dadhich/ceip-data-exploration-cleaning-using-pandas/blob/main/Week-3/outputW3.ipynb)
