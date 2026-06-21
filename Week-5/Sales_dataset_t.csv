@@ -1,0 +1,206 @@
+user_id,transaction_date,region,product_category,sale_amount,city,age,subscription,status,price,email,username,store_id,raw_timestamp
+36,3/23/2025,East,Clothing,156.75,Los Angeles,37,Premium,,64.55,user1@example.com,user1,104,2025-03-23 00:00:00
+28,1/5/2025,East,Electronics,570.02,Denver,29,Premium,Pending,24.6,user2@example.com,user2,103,2025-01-05 00:00:00
+21,4/14/2025,South,Groceries,292.31,San Francisco,40,Basic,Completed,435.96,user3@example.com,user3,101,2025-04-14 00:00:00
+45,2/18/2025,North,Electronics,735.14,Denver,19,Basic,Completed,57.39,user4@example.com,user4,103,2025-02-18 00:00:00
+47,4/17/2025,East,Electronics,64.91,San Francisco,40,Basic,Completed,318.03,user5@example.com,user5,102,2025-04-17 00:00:00
+36,4/21/2025,South,Groceries,179.4,Seattle,22,Basic,,59.49,user6@example.com,user6,101,2025-04-21 00:00:00
+69,3/19/2025,East,Clothing,473.02,Seattle,45,Premium,,321.14,user7@example.com,user7,103,2025-03-19 00:00:00
+8,4/18/2025,East,Electronics,808.94,Phoenix,24,Premium,Completed,386.47,user8@example.com,user8,103,2025-04-18 00:00:00
+51,1/28/2025,South,Clothing,279.58,San Francisco,39,Basic,,331.16,user9@example.com,user9,104,2025-01-28 00:00:00
+47,4/25/2025,East,Clothing,519.34,Los Angeles,40,Premium,Completed,295.93,user10@example.com,user10,102,2025-04-25 00:00:00
+55,3/22/2025,West,Furniture,393.99,Phoenix,32,Basic,,88.39,user11@example.com,user11,101,2025-03-22 00:00:00
+69,3/29/2025,North,Groceries,129.32,Phoenix,21,Basic,Completed,363.15,user12@example.com,user12,103,2025-03-29 00:00:00
+65,3/6/2025,West,Groceries,844.84,Denver,35,Premium,Completed,383.36,user13@example.com,user13,103,2025-03-06 00:00:00
+68,4/8/2025,West,Groceries,498.83,Los Angeles,45,Basic,Pending,89.16,user14@example.com,user14,102,2025-04-08 00:00:00
+73,1/8/2025,West,Electronics,737.27,Los Angeles,40,Premium,Completed,128.03,user15@example.com,user15,104,2025-01-08 00:00:00
+68,3/12/2025,South,Clothing,930.34,San Francisco,38,Basic,Pending,90.91,user16@example.com,user16,103,2025-03-12 00:00:00
+58,2/26/2025,West,Clothing,240.2,Seattle,16,Premium,,,user17@example.com,user17,102,2025-02-26 00:00:00
+8,1/1/2025,East,Electronics,907.31,Seattle,18,Premium,Pending,44.79,user18@example.com,user18,104,2025-01-01 00:00:00
+74,1/28/2025,South,Clothing,788.93,Phoenix,22,Premium,Completed,274.22,user19@example.com,user19,104,2025-01-28 00:00:00
+60,2/15/2025,West,Electronics,79.4,Seattle,41,Premium,Completed,217.55,user20@example.com,user20,102,2025-02-15 00:00:00
+18,1/25/2025,South,Clothing,292.97,San Francisco,43,Premium,Pending,272.78,user21@example.com,user21,101,2025-01-25 00:00:00
+70,1/7/2025,West,Electronics,927.84,San Francisco,21,Basic,Pending,329.55,user22@example.com,user22,104,2025-01-07 00:00:00
+8,1/28/2025,East,Furniture,22.11,Phoenix,24,Basic,Pending,433.68,user23@example.com,user23,104,2025-01-28 00:00:00
+72,3/31/2025,South,Clothing,206.1,San Francisco,17,Premium,,479.09,user24@example.com,user24,103,2025-03-31 00:00:00
+62,1/8/2025,East,Electronics,961.56,Los Angeles,43,Premium,Completed,34.57,,user25,101,2025-01-08 00:00:00
+52,3/28/2025,West,Clothing,587.34,Los Angeles,35,Premium,Pending,432.29,user26@example.com,user26,103,2025-03-28 00:00:00
+41,4/30/2025,East,Groceries,407.87,Seattle,30,Basic,Completed,137.78,user27@example.com,user27,101,2025-04-30 00:00:00
+73,2/28/2025,West,Electronics,546.88,Denver,24,Premium,Pending,314.37,user28@example.com,user28,101,2025-02-28 00:00:00
+37,4/23/2025,East,Furniture,837.07,Seattle,35,Premium,,129.7,user29@example.com,user29,103,2025-04-23 00:00:00
+18,4/30/2025,North,Electronics,891.92,Denver,20,Basic,Pending,335.06,user30@example.com,,102,2025-04-30 00:00:00
+34,4/2/2025,South,Groceries,907.23,Los Angeles,18,Basic,Pending,178.01,user31@example.com,user31,101,2025-04-02 00:00:00
+17,1/1/2025,North,Clothing,746.41,Denver,38,Basic,,173.44,user32@example.com,user32,101,2025-01-01 00:00:00
+20,1/15/2025,West,Groceries,590.86,San Francisco,29,Premium,Completed,46.87,user33@example.com,user33,103,2025-01-15 00:00:00
+6,2/16/2025,North,Clothing,688.43,Los Angeles,27,Basic,,,user34@example.com,user34,102,2025-02-16 00:00:00
+21,4/29/2025,East,Furniture,44.29,Seattle,41,Basic,,465.64,user35@example.com,user35,102,2025-04-29 00:00:00
+14,2/4/2025,South,Electronics,861.42,San Francisco,22,Basic,Pending,88.01,user36@example.com,user36,103,2025-02-04 00:00:00
+30,4/16/2025,East,Electronics,666.83,Phoenix,26,Basic,Completed,399.72,user37@example.com,user37,103,
+52,2/14/2025,North,Electronics,133.03,Seattle,21,Basic,Completed,324.33,user38@example.com,user38,101,2025-02-14 00:00:00
+41,3/18/2025,South,Electronics,397.49,Denver,22,Basic,Completed,222.94,user39@example.com,user39,104,2025-03-18 00:00:00
+69,1/1/2025,East,Groceries,442.67,Seattle,35,Basic,,264.76,user40@example.com,user40,101,2025-01-01 00:00:00
+65,4/3/2025,North,Furniture,339.66,Seattle,33,Premium,Completed,451.02,user41@example.com,user41,104,2025-04-03 00:00:00
+23,3/27/2025,North,Furniture,556.98,Los Angeles,25,Basic,Completed,470.78,user42@example.com,user42,104,2025-03-27 00:00:00
+42,4/11/2025,South,Furniture,453.32,San Francisco,32,Basic,,294.19,user43@example.com,user43,102,2025-04-11 00:00:00
+66,3/26/2025,North,Electronics,822.05,San Francisco,37,Basic,Completed,51.55,user44@example.com,user44,102,2025-03-26 00:00:00
+32,1/19/2025,South,Electronics,466.31,Denver,22,Basic,Pending,21.97,user45@example.com,user45,104,2025-01-19 00:00:00
+1,2/1/2025,West,Furniture,234.46,Denver,30,Premium,,82.31,user46@example.com,user46,102,2025-02-01 00:00:00
+59,4/28/2025,East,Furniture,674.23,Denver,35,Basic,Pending,425.68,user47@example.com,user47,104,2025-04-28 00:00:00
+58,4/17/2025,East,Furniture,461.07,San Francisco,42,Basic,,454.36,user48@example.com,user48,104,2025-04-17 00:00:00
+57,3/22/2025,West,Groceries,249.8,Seattle,26,Premium,Completed,127.23,user49@example.com,user49,102,2025-03-22 00:00:00
+20,1/30/2025,East,Electronics,426.57,Seattle,33,Basic,Pending,197.69,,user50,101,2025-01-30 00:00:00
+50,1/27/2025,West,Furniture,487.44,Seattle,25,Basic,Pending,,user51@example.com,user51,102,2025-01-27 00:00:00
+56,3/4/2025,South,Electronics,401.08,Phoenix,39,Premium,Pending,117.52,user52@example.com,user52,102,2025-03-04 00:00:00
+51,3/21/2025,West,Electronics,649.89,San Francisco,43,Basic,Completed,271.72,user53@example.com,user53,101,2025-03-21 00:00:00
+28,2/3/2025,South,Groceries,350.75,Phoenix,24,Basic,Pending,195.76,user54@example.com,user54,101,2025-02-03 00:00:00
+70,3/2/2025,West,Groceries,239.74,Los Angeles,40,Premium,Completed,19.5,user55@example.com,user55,102,2025-03-02 00:00:00
+80,1/26/2025,East,Clothing,143.7,Los Angeles,34,Premium,Pending,421.22,user56@example.com,user56,103,2025-01-26 00:00:00
+78,4/9/2025,West,Clothing,965.43,Los Angeles,34,Premium,Pending,190.76,user57@example.com,user57,104,2025-04-09 00:00:00
+26,2/20/2025,West,Clothing,119.86,Seattle,43,Premium,,471.32,user58@example.com,user58,101,2025-02-20 00:00:00
+48,2/14/2025,West,Groceries,32.4,Phoenix,42,Basic,Completed,271.05,user59@example.com,user59,104,2025-02-14 00:00:00
+59,2/16/2025,East,Furniture,192.61,Denver,36,Basic,,321.44,user60@example.com,,104,2025-02-16 00:00:00
+76,3/1/2025,North,Groceries,854.68,Los Angeles,24,Basic,Completed,223.43,user61@example.com,user61,104,2025-03-01 00:00:00
+49,3/14/2025,North,Electronics,504.42,Seattle,21,Basic,Completed,309.06,user62@example.com,user62,103,2025-03-14 00:00:00
+36,4/13/2025,North,Electronics,526.29,San Francisco,18,Premium,,136.59,user63@example.com,user63,104,2025-04-13 00:00:00
+31,3/4/2025,South,Furniture,459.21,Los Angeles,18,Basic,Completed,282.04,user64@example.com,user64,104,2025-03-04 00:00:00
+75,3/30/2025,North,Furniture,562.4,Seattle,29,Basic,Pending,129.22,user65@example.com,user65,104,2025-03-30 00:00:00
+30,2/4/2025,West,Clothing,329.24,Denver,40,Premium,Completed,160.25,user66@example.com,user66,102,2025-02-04 00:00:00
+76,4/5/2025,North,Electronics,835.98,Seattle,23,Basic,Completed,247.26,user67@example.com,user67,103,2025-04-05 00:00:00
+17,1/2/2025,North,Electronics,974.81,Denver,25,Premium,,,user68@example.com,user68,104,2025-01-02 00:00:00
+74,1/14/2025,North,Furniture,489.14,Seattle,21,Premium,Pending,437.63,user69@example.com,user69,104,2025-01-14 00:00:00
+52,1/15/2025,South,Electronics,585.48,Los Angeles,20,Premium,,412.84,user70@example.com,user70,103,2025-01-15 00:00:00
+16,1/11/2025,South,Clothing,780.18,Phoenix,30,Basic,Pending,497.02,user71@example.com,user71,104,2025-01-11 00:00:00
+8,2/9/2025,West,Clothing,633.0,Seattle,37,Premium,Completed,288.63,user72@example.com,user72,102,2025-02-09 00:00:00
+21,1/23/2025,West,Furniture,461.49,Denver,31,Basic,Completed,280.48,user73@example.com,user73,102,2025-01-23 00:00:00
+59,2/6/2025,West,Clothing,925.43,Denver,37,Premium,Pending,356.41,user74@example.com,user74,101,2025-06-02 00:00:00
+20,3/11/2025,North,Clothing,89.98,San Francisco,41,Basic,,120.16,,user75,103,2025-03-11 00:00:00
+39,2/26/2025,South,Groceries,510.46,Phoenix,30,Premium,,70.93,user76@example.com,user76,101,2025-02-26 00:00:00
+42,4/24/2025,North,Electronics,109.5,Denver,34,Premium,,221.69,user77@example.com,user77,103,2025-04-24 00:00:00
+23,3/15/2025,South,Furniture,917.75,San Francisco,34,Basic,,29.71,user78@example.com,user78,104,2025-03-15 00:00:00
+53,1/12/2025,North,Groceries,676.73,San Francisco,26,Basic,,240.31,user79@example.com,user79,104,2025-01-12 00:00:00
+52,2/6/2025,West,Furniture,106.3,Seattle,26,Premium,Pending,334.67,user80@example.com,user80,101,2025-02-06 00:00:00
+60,3/26/2025,South,Electronics,203.83,Seattle,35,Basic,,435.99,user81@example.com,user81,104,2025-03-26 00:00:00
+35,4/8/2025,East,Groceries,449.35,Phoenix,19,Premium,,35.29,user82@example.com,user82,102,2025-04-08 00:00:00
+71,4/1/2025,West,Furniture,111.35,Los Angeles,30,Premium,,87.61,user83@example.com,user83,102,2025-04-01 00:00:00
+38,3/5/2025,North,Furniture,838.03,Phoenix,23,Basic,,467.0,user84@example.com,user84,102,2025-03-05 00:00:00
+77,2/19/2025,East,Electronics,290.72,Phoenix,26,Basic,Completed,,user85@example.com,user85,103,2025-02-19 00:00:00
+76,4/3/2025,South,Clothing,457.62,Phoenix,27,Basic,,156.29,user86@example.com,user86,104,2025-04-03 00:00:00
+25,2/28/2025,East,Furniture,248.89,Phoenix,17,Basic,,467.1,user87@example.com,user87,104,2025-02-28 00:00:00
+49,4/1/2025,South,Clothing,505.42,Los Angeles,20,Basic,Completed,457.58,user88@example.com,user88,104,2025-04-01 00:00:00
+59,1/13/2025,West,Clothing,421.78,San Francisco,18,Basic,Pending,267.72,user89@example.com,user89,103,2025-01-13 00:00:00
+11,3/21/2025,North,Furniture,955.06,Phoenix,43,Premium,,349.43,user90@example.com,,101,2025-03-21 00:00:00
+37,1/31/2025,East,Electronics,445.29,Los Angeles,40,Premium,Pending,319.27,user91@example.com,user91,102,2025-01-31 00:00:00
+4,3/30/2025,West,Groceries,800.22,Seattle,27,Basic,Pending,156.74,user92@example.com,user92,102,2025-03-30 00:00:00
+73,2/1/2025,East,Clothing,191.57,Denver,43,Basic,,270.27,user93@example.com,user93,102,2025-02-01 00:00:00
+19,3/5/2025,East,Furniture,645.15,Phoenix,24,Premium,Pending,457.29,user94@example.com,user94,103,2025-03-05 00:00:00
+10,3/28/2025,South,Groceries,987.9,Seattle,36,Basic,,277.83,user95@example.com,user95,103,2025-03-28 00:00:00
+26,2/28/2025,South,Furniture,124.52,Phoenix,34,Basic,,424.2,user96@example.com,user96,103,2025-02-28 00:00:00
+51,3/31/2025,North,Electronics,574.61,Los Angeles,45,Basic,Pending,154.66,user97@example.com,user97,102,2025-03-31 00:00:00
+29,3/19/2025,East,Groceries,684.21,San Francisco,36,Premium,,402.95,user98@example.com,user98,101,2025-03-19 00:00:00
+5,2/9/2025,North,Clothing,108.33,Seattle,26,Basic,Completed,396.42,user99@example.com,user99,102,2025-02-09 00:00:00
+47,1/17/2025,North,Clothing,271.83,Phoenix,41,Basic,,395.39,,user100,103,2025-01-17 00:00:00
+10,4/13/2025,East,Clothing,862.94,Phoenix,43,Basic,Completed,66.43,user101@example.com,user101,104,2025-04-13 00:00:00
+16,1/2/2025,South,Groceries,679.37,Seattle,34,Basic,,,user102@example.com,user102,103,2025-01-02 00:00:00
+61,1/14/2025,West,Groceries,916.95,San Francisco,36,Premium,,340.67,user103@example.com,user103,104,2025-01-14 00:00:00
+53,4/27/2025,West,Clothing,64.44,Los Angeles,25,Basic,Completed,353.53,user104@example.com,user104,101,2025-04-27 00:00:00
+18,1/31/2025,South,Furniture,383.59,Denver,29,Premium,Pending,444.76,user105@example.com,user105,101,2025-01-31 00:00:00
+53,4/17/2025,North,Electronics,696.48,San Francisco,30,Basic,Completed,249.78,user106@example.com,user106,103,2025-04-17 00:00:00
+48,1/13/2025,North,Electronics,410.18,San Francisco,19,Basic,Completed,490.65,user107@example.com,user107,102,2025-01-13 00:00:00
+3,3/24/2025,West,Groceries,258.7,San Francisco,41,Premium,Completed,323.35,user108@example.com,user108,102,2025-03-24 00:00:00
+30,3/17/2025,North,Clothing,792.87,Denver,16,Basic,Completed,115.82,user109@example.com,user109,102,2025-03-17 00:00:00
+23,3/11/2025,West,Electronics,149.17,Seattle,41,Premium,,132.82,user110@example.com,user110,103,2025-03-11 00:00:00
+7,1/3/2025,East,Furniture,535.56,Los Angeles,31,Basic,Pending,95.38,user111@example.com,user111,101,2025-03-01 00:00:00
+79,2/27/2025,West,Groceries,468.88,Los Angeles,17,Basic,Pending,256.88,user112@example.com,user112,104,2025-02-27 00:00:00
+57,3/29/2025,West,Electronics,335.67,San Francisco,18,Premium,Pending,62.9,user113@example.com,user113,103,2025-03-29 00:00:00
+68,2/18/2025,North,Furniture,515.44,Phoenix,19,Premium,,497.37,user114@example.com,user114,102,2025-02-18 00:00:00
+30,2/25/2025,South,Groceries,830.87,Phoenix,29,Premium,Pending,231.26,user115@example.com,user115,104,2025-02-25 00:00:00
+48,2/10/2025,East,Furniture,85.79,Los Angeles,18,Basic,Completed,335.9,user116@example.com,user116,103,2025-02-10 00:00:00
+8,4/14/2025,North,Electronics,422.59,Phoenix,43,Premium,Pending,73.76,user117@example.com,user117,103,2025-04-14 00:00:00
+65,2/15/2025,East,Clothing,663.6,San Francisco,43,Premium,Pending,60.76,user118@example.com,user118,103,2025-02-15 00:00:00
+74,1/15/2025,East,Furniture,848.25,Denver,35,Premium,,,user119@example.com,user119,103,2025-01-15 00:00:00
+40,1/4/2025,North,Groceries,25.98,San Francisco,34,Basic,Completed,98.4,user120@example.com,,102,2025-01-04 00:00:00
+4,4/5/2025,West,Clothing,388.67,Phoenix,26,Premium,Pending,320.25,user121@example.com,user121,103,2025-04-05 00:00:00
+73,4/3/2025,West,Electronics,172.47,Denver,17,Premium,Pending,168.95,user122@example.com,user122,104,2025-04-03 00:00:00
+78,3/26/2025,South,Furniture,287.7,Denver,19,Basic,Pending,217.77,user123@example.com,user123,101,2025-03-26 00:00:00
+76,2/6/2025,South,Groceries,64.51,Phoenix,35,Premium,Completed,342.33,user124@example.com,user124,102,2025-02-06 00:00:00
+18,2/8/2025,North,Groceries,341.56,Los Angeles,31,Basic,Completed,473.21,,user125,102,2025-02-08 00:00:00
+30,2/18/2025,North,Electronics,409.13,Los Angeles,29,Premium,Pending,270.97,user126@example.com,user126,101,2025-02-18 00:00:00
+55,4/21/2025,South,Furniture,303.72,Phoenix,16,Basic,Completed,163.4,user127@example.com,user127,104,2025-04-21 00:00:00
+47,4/17/2025,West,Furniture,847.59,San Francisco,29,Basic,,347.91,user128@example.com,user128,101,2025-04-17 00:00:00
+44,2/20/2025,East,Groceries,783.54,Los Angeles,32,Premium,,436.56,user129@example.com,user129,102,2025-02-20 00:00:00
+45,4/26/2025,East,Clothing,120.75,Seattle,22,Premium,,390.35,user130@example.com,user130,102,2025-04-26 00:00:00
+10,4/8/2025,East,Furniture,474.67,Denver,40,Basic,,381.98,user131@example.com,user131,103,2025-04-08 00:00:00
+41,4/21/2025,East,Furniture,86.92,Phoenix,36,Basic,Pending,485.78,user132@example.com,user132,101,2025-04-21 00:00:00
+40,2/15/2025,South,Furniture,56.86,Seattle,42,Basic,Completed,258.6,user133@example.com,user133,101,2025-02-15 00:00:00
+50,3/20/2025,South,Electronics,460.74,Denver,36,Premium,Pending,301.1,user134@example.com,user134,104,2025-03-20 00:00:00
+8,3/6/2025,South,Electronics,814.75,Seattle,38,Premium,,83.92,user135@example.com,user135,102,2025-03-06 00:00:00
+57,1/6/2025,South,Clothing,376.62,Seattle,28,Basic,Pending,,user136@example.com,user136,101,2025-01-06 00:00:00
+43,4/12/2025,West,Groceries,112.62,Phoenix,25,Basic,,319.13,user137@example.com,user137,102,2025-04-12 00:00:00
+19,2/12/2025,North,Groceries,968.34,Phoenix,20,Premium,Pending,49.94,user138@example.com,user138,104,2025-02-12 00:00:00
+17,3/24/2025,West,Furniture,518.32,Los Angeles,27,Basic,Completed,397.91,user139@example.com,user139,102,2025-03-24 00:00:00
+63,2/13/2025,East,Clothing,999.98,San Francisco,18,Basic,Completed,474.36,user140@example.com,user140,101,2025-02-13 00:00:00
+80,3/26/2025,East,Furniture,171.17,San Francisco,42,Premium,,175.01,user141@example.com,user141,104,2025-03-26 00:00:00
+31,1/6/2025,South,Groceries,757.34,Phoenix,23,Premium,Pending,211.32,user142@example.com,user142,104,2025-01-06 00:00:00
+48,4/26/2025,South,Furniture,774.05,Phoenix,32,Basic,Completed,419.21,user143@example.com,user143,102,2025-04-26 00:00:00
+33,4/13/2025,West,Furniture,876.63,Denver,45,Premium,,306.29,user144@example.com,user144,101,2025-04-13 00:00:00
+21,2/6/2025,North,Furniture,907.2,San Francisco,42,Basic,Completed,51.1,user145@example.com,user145,102,2025-02-06 00:00:00
+45,4/15/2025,West,Furniture,72.19,Denver,27,Premium,Pending,231.05,user146@example.com,user146,101,2025-04-15 00:00:00
+41,2/17/2025,West,Groceries,795.55,San Francisco,17,Basic,Pending,120.02,user147@example.com,user147,102,2025-02-17 00:00:00
+58,4/8/2025,West,Electronics,38.62,San Francisco,42,Premium,,355.71,user148@example.com,user148,104,2025-08-04 00:00:00
+31,1/15/2025,North,Electronics,66.79,Phoenix,36,Basic,Completed,390.32,user149@example.com,user149,101,2025-01-15 00:00:00
+77,4/18/2025,West,Clothing,724.17,Seattle,29,Premium,,453.52,,,103,2025-04-18 00:00:00
+24,1/31/2025,West,Groceries,86.33,Denver,33,Premium,Pending,289.63,user151@example.com,user151,104,2025-01-31 00:00:00
+48,1/6/2025,North,Electronics,369.95,Los Angeles,27,Premium,,321.48,user152@example.com,user152,101,2025-01-06 00:00:00
+43,4/9/2025,East,Electronics,365.25,Seattle,42,Premium,,,user153@example.com,user153,104,2025-04-09 00:00:00
+24,3/31/2025,East,Electronics,721.72,Phoenix,17,Basic,Completed,244.48,user154@example.com,user154,101,2025-03-31 00:00:00
+6,4/12/2025,North,Groceries,525.08,Denver,31,Basic,Completed,107.74,user155@example.com,user155,102,2025-04-12 00:00:00
+7,2/6/2025,North,Groceries,141.99,Seattle,29,Basic,,184.92,user156@example.com,user156,104,2025-02-06 00:00:00
+44,4/25/2025,East,Furniture,698.23,Seattle,45,Basic,Completed,478.67,user157@example.com,user157,104,2025-04-25 00:00:00
+24,1/11/2025,North,Groceries,120.55,Seattle,37,Basic,Pending,221.0,user158@example.com,user158,104,2025-01-11 00:00:00
+22,3/19/2025,South,Groceries,458.19,Seattle,35,Basic,Pending,361.65,user159@example.com,user159,101,2025-03-19 00:00:00
+52,1/10/2025,North,Clothing,953.73,San Francisco,43,Basic,Completed,338.88,user160@example.com,user160,102,2025-01-10 00:00:00
+47,1/9/2025,North,Furniture,950.48,Los Angeles,35,Premium,,125.64,user161@example.com,user161,104,2025-01-09 00:00:00
+10,2/17/2025,East,Groceries,410.07,Seattle,23,Premium,Completed,192.29,user162@example.com,user162,102,2025-02-17 00:00:00
+72,3/5/2025,West,Groceries,779.47,Phoenix,22,Basic,,263.7,user163@example.com,user163,104,2025-03-05 00:00:00
+10,1/26/2025,South,Clothing,900.71,Phoenix,18,Basic,,70.09,user164@example.com,user164,103,2025-01-26 00:00:00
+70,4/1/2025,North,Groceries,854.33,San Francisco,41,Basic,,41.82,user165@example.com,user165,102,2025-04-01 00:00:00
+18,1/16/2025,East,Furniture,45.76,Denver,34,Basic,Pending,492.71,user166@example.com,user166,102,2025-01-16 00:00:00
+9,3/20/2025,North,Furniture,999.6,Phoenix,32,Basic,Pending,443.28,user167@example.com,user167,101,2025-03-20 00:00:00
+10,1/17/2025,South,Furniture,686.51,Seattle,20,Premium,Completed,486.47,user168@example.com,user168,104,2025-01-17 00:00:00
+8,3/6/2025,West,Clothing,318.04,San Francisco,26,Premium,Pending,456.25,user169@example.com,user169,103,2025-03-06 00:00:00
+26,4/19/2025,North,Clothing,632.52,Denver,33,Premium,,,user170@example.com,user170,102,2025-04-19 00:00:00
+20,3/17/2025,East,Groceries,845.68,Denver,17,Premium,Completed,471.39,user171@example.com,user171,101,2025-03-17 00:00:00
+34,3/24/2025,East,Furniture,625.75,Los Angeles,31,Basic,,387.8,user172@example.com,user172,103,2025-03-24 00:00:00
+52,3/3/2025,North,Furniture,91.51,Los Angeles,21,Basic,Pending,129.99,user173@example.com,user173,104,2025-03-03 00:00:00
+78,3/1/2025,East,Groceries,864.26,Seattle,39,Basic,Pending,109.97,user174@example.com,user174,102,2025-03-01 00:00:00
+72,4/8/2025,West,Groceries,256.9,Los Angeles,24,Basic,Completed,191.56,,user175,102,2025-04-08 00:00:00
+50,1/13/2025,South,Clothing,963.43,San Francisco,42,Basic,,34.8,user176@example.com,user176,103,2025-01-13 00:00:00
+64,1/25/2025,South,Furniture,881.49,Phoenix,16,Premium,Pending,383.93,user177@example.com,user177,104,2025-01-25 00:00:00
+46,1/31/2025,West,Electronics,295.73,Denver,44,Basic,Pending,115.42,user178@example.com,user178,101,2025-01-31 00:00:00
+18,4/19/2025,North,Groceries,768.58,Seattle,17,Basic,Completed,62.67,user179@example.com,user179,102,2025-04-19 00:00:00
+10,2/16/2025,South,Furniture,769.12,Seattle,42,Premium,Completed,281.08,user180@example.com,,101,2025-02-16 00:00:00
+44,2/20/2025,North,Clothing,215.08,Denver,28,Premium,Completed,192.87,user181@example.com,user181,101,2025-02-20 00:00:00
+61,1/18/2025,South,Clothing,614.14,Denver,20,Basic,,359.66,user182@example.com,user182,103,2025-01-18 00:00:00
+79,1/21/2025,North,Groceries,517.17,Denver,33,Basic,,202.55,user183@example.com,user183,103,2025-01-21 00:00:00
+48,3/2/2025,North,Electronics,980.3,Denver,25,Premium,,409.72,user184@example.com,user184,104,2025-03-02 00:00:00
+75,2/3/2025,East,Electronics,591.85,San Francisco,32,Basic,Completed,483.86,user185@example.com,user185,102,2025-03-02 00:00:00
+15,1/5/2025,East,Electronics,452.22,Phoenix,20,Basic,,290.56,user186@example.com,user186,102,2025-01-05 00:00:00
+79,2/22/2025,South,Electronics,711.66,Denver,22,Basic,,,user187@example.com,user187,104,2025-02-22 00:00:00
+23,3/9/2025,South,Groceries,555.35,Seattle,35,Basic,Completed,194.64,user188@example.com,user188,102,2025-03-09 00:00:00
+29,2/5/2025,North,Groceries,710.8,Phoenix,26,Basic,Pending,283.46,user189@example.com,user189,103,2025-02-05 00:00:00
+70,2/6/2025,South,Furniture,822.01,San Francisco,25,Premium,Pending,69.72,user190@example.com,user190,101,2025-02-06 00:00:00
+33,2/14/2025,South,Clothing,218.03,Denver,24,Basic,Completed,462.76,user191@example.com,user191,101,2025-02-14 00:00:00
+31,3/20/2025,East,Electronics,676.44,Denver,23,Premium,Completed,373.04,user192@example.com,user192,101,2025-03-20 00:00:00
+61,2/22/2025,West,Clothing,25.08,Denver,45,Premium,Pending,171.84,user193@example.com,user193,104,2025-02-22 00:00:00
+37,3/3/2025,North,Groceries,652.98,Los Angeles,36,Premium,,328.76,user194@example.com,user194,101,2025-03-03 00:00:00
+54,4/27/2025,East,Electronics,997.23,Phoenix,41,Basic,Completed,461.52,user195@example.com,user195,103,2025-04-27 00:00:00
+39,4/23/2025,West,Groceries,298.87,Denver,32,Basic,Completed,28.36,user196@example.com,user196,104,2025-04-23 00:00:00
+15,2/4/2025,North,Clothing,736.5,Seattle,38,Premium,Completed,104.48,user197@example.com,user197,103,2025-02-04 00:00:00
+25,4/12/2025,East,Furniture,830.45,Denver,26,Premium,Pending,154.56,user198@example.com,user198,101,2025-04-12 00:00:00
+62,1/24/2025,North,Clothing,26.69,Phoenix,23,Basic,Pending,491.03,user199@example.com,user199,103,2025-01-24 00:00:00
+74,2/8/2025,West,Groceries,660.61,San Francisco,17,Premium,Pending,295.41,,user200,103,2025-02-08 00:00:00
+36,3/23/2025,East,Clothing,156.75,Los Angeles,37,Premium,,64.55,user1@example.com,user1,104,2025-03-23 00:00:00
+28,1/5/2025,East,Electronics,570.02,Denver,29,Premium,Pending,24.6,user2@example.com,user2,103,2025-01-05 00:00:00
+21,4/14/2025,South,Groceries,292.31,San Francisco,40,Basic,Completed,435.96,user3@example.com,user3,101,2025-04-14 00:00:00
+45,2/18/2025,North,Electronics,735.14,Denver,19,Basic,Completed,57.39,user4@example.com,user4,103,2025-02-18 00:00:00
+47,4/17/2025,East,Electronics,64.91,San Francisco,40,Basic,Completed,318.03,user5@example.com,user5,102,2025-04-17 00:00:00
