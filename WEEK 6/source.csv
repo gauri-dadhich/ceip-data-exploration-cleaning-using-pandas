@@ -1,0 +1,11 @@
+product_id,product_name,category,price,base_price,status,amount,region,priority,user_id,old_name
+101,Laptop,Electronics,55000,50000,Completed,1200,North,High,1.0,Item_A
+102,Mouse,Electronics,700,600,Pending,500,South,Low,2.0,Item_B
+103,Table,Furniture,2500,2200,Completed,3000,North,Medium,3.0,Item_C
+104,TV,Electronics,42000,39000,Completed,1500,West,High,,Item_D
+105,Chair,Furniture,1200,1000,Pending,700,North,High,5.0,Item_E
+106,Keyboard,Electronics,1500,1300,Completed,1800,East,Medium,6.0,Item_F
+107,Sofa,Furniture,18000,17000,Completed,2500,South,Low,7.0,Item_G
+108,Mobile,Electronics,25000,23000,Pending,900,North,High,8.0,Item_H
+109,Printer,Electronics,8000,7500,Completed,2000,West,Medium,9.0,Item_I
+110,Desk,Furniture,3500,3200,Completed,1100,North,High,,Item_J
