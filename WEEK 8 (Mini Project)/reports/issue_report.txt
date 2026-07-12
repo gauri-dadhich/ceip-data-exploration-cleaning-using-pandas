@@ -1,0 +1,12 @@
+DATA QUALITY REPORT
+========================================
+Total Customers: 500
+Total Products: 500
+Total Orders: 500
+Total Order Items: 500
+Invalid Emails: 6
+NULL Customer IDs: 22
+Wrong Date Formats: 25
+Messy Product Names: 27
+Negative Quantities: 23
+Invalid Order References: 1
